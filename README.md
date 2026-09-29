@@ -2,34 +2,6 @@
 
 ## Student Assignment Project
 
-This repository contains eight original C practice programs based on the programming categories required for the CSC1101 Structured Programming GitHub Practice Assignment.
-
-The programs use ideas related to exercises in **Paul Deitel and Harvey Deitel, C How to Program, 9th Edition**. The textbook exercise wording has not been copied; each problem below is described in original words.
-
-## Repository structure
-
-```text
-structured-programming-practice/
-├── README.md
-├── 01_basic_output/
-│   └── exercise.c
-├── 02_input_process_output/
-│   └── exercise.c
-├── 03_decisions/
-│   └── exercise.c
-├── 04_basic_loop/
-│   └── exercise.c
-├── 05_loop_calculation/
-│   └── exercise.c
-├── 06_loop_input/
-│   └── exercise.c
-├── 07_loop_decision/
-│   └── exercise.c
-└── 08_interactive_program/
-    └── exercise.c
-```
-
----
 
 ## 1. Student Information Card
 
